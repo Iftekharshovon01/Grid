@@ -1,0 +1,19 @@
+h1{
+	color: black;
+	text-align: center;
+}
+.bgc{
+	background-color: black;
+	min-height: 50px;
+	margin-top: 10px;
+}
+.bgc_p{
+	background-color: purple;
+	min-height: 50px;
+	margin-top: 10px;
+}
+.bgc_g{
+	background-color: green;
+	min-height: 50px;
+	margin-top: 10px;
+}
